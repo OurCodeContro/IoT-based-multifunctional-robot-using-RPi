@@ -3,6 +3,7 @@ This repository contains all the codes for mentioned project. This projet is dev
 This robo can be controlled using Wiimote as well as from internet making it IoT based robot.
 
 Features of Robot:
+
 -voice recognition (tasks based on voice e.g- if user says "make me laugh" then robo plays Minion laughing audios etc.)
 -PDF book reading from Flash Drives
 -Home Automation(through voice)
